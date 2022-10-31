@@ -32,7 +32,7 @@ public class UserController {
 	@Autowired
 	BookHouseRepo bookHouseRepo;
 	@Autowired
-	BookRegisterRepo bookRegisterRepolklk;
+	BookRegisterRepo bookRegisterRepo;
 
 	
 
